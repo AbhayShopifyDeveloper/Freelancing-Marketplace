@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/d4dbf97a-731b-4e5f-9d54-ef88107a2e21
+View your app in AI Studio: https://freelancing-marketplace-6968.netlify.app
 
 ## Run Locally
 
