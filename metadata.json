@@ -1,0 +1,6 @@
+{
+  "name": "Freelancing Marketplace",
+  "description": "A modern and responsive marketplace platform connecting clients with skilled freelance talent to post projects, submit proposals, and hire professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
